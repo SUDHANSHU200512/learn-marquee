@@ -1,0 +1,10 @@
+body {
+    background-color : #000;
+    color: #ec0101;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Satisfy', cursive;
+}
